@@ -1,0 +1,22 @@
+.conatiner {
+    height: 10vh;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.Logo{
+    width: 40%;
+    font-size: 30px;
+    padding-left: 10%;
+    line-height: 10vh;
+}
+.btnDiv{
+    width: 60%;
+}

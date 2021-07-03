@@ -1,0 +1,27 @@
+.cartItems{
+    width: 100%;
+    max-height: 45vh;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+.btnDiv{
+    max-height: 15vh;
+    padding-top: 10px;
+    width:100%;
+    text-align: right;
+}
+.price{
+    float: left;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.btn{
+    font-size: 20px;
+    margin-right:  10px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    padding: 5px 20px;
+    text-decoration: none;
+}

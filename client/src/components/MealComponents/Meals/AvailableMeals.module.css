@@ -1,0 +1,22 @@
+.container{
+    width: 100%;
+}
+
+.meals{
+    border:1px solid black;
+    width: 50%;
+    margin: auto;
+    padding: 10px 20px 0 20px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    animation: popup 1s ease-out;
+}
+
+@keyframes popup {
+    0%{
+        transform: translateY(50px);
+    }
+    100%{
+        transform: translateY(0);
+    }
+}

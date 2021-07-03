@@ -1,0 +1,11 @@
+.container{
+    height: 6vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.text{
+    font-size: 20px;
+    line-height: 6vh;
+}
